@@ -14,4 +14,4 @@ This project is an HTTP server built with Python/Flask that evaluates user segme
    `docker run -e PORT=3000 -p 3000:3000 segmentation-server`
    
 ## AI Usage & Attribution
-In alignment with the assignment guidelines, **GitHub Copilot** was used as an AI collaborator during the development of this project. 
+**GitHub Copilot** was used as an AI collaborator during the development of this project. 
